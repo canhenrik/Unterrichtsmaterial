@@ -3,4 +3,7 @@
 
 Im Ordner xmind befinden sich die MindMap mit der Gesamtübersicht.
 
-https://www.xmind.net/
+Für MacOS und Windows: https://www.xmind.net/
+
+Für Linux: https://www.xmind.net/download/linux/
+Hier die Installationsanleitung für Linux: https://askubuntu.com/questions/869848/how-to-install-run-xmind-v-8-in-ubuntu-16-04
