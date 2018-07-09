@@ -1,5 +1,5 @@
 # Unterrichtsmaterial
-Übersicht aller Oberstufeninhalte von Klasse 9 bis Klasse 13
+Übersicht aller Oberstufeninhalte von Klasse 9 bis Klasse 13 im Fach Mathematik
 
 Im Ordner xmind befinden sich die MindMap mit der Gesamtübersicht.
 
